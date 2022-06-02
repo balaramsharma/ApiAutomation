@@ -1,0 +1,8 @@
+requests~=2.26.0
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+SQLAlchemy
+pyotp
+django-autocomplete-light
+sshtunnel
